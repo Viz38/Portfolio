@@ -433,17 +433,17 @@ video {
 .label-logo:after {
     font-family: "Semibold";
     font-size: 20px;
-    content: "wish";
+    content: "wishnew";
 }
 
 .label-logo:hover:after {
-    content: "wish_new";
+    content: "wishnew.me";
     white-space: nowrap;
 }
 
 @media screen and (max-width: 767px) {
     .label-logo:hover:after {
-        content: "wish_new";
+        content: "wishnew.me";
     }
 }
 
